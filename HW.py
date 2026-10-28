@@ -1,0 +1,43 @@
+name = input("Group name: ")
+size = int(input("Size of the group: "))
+date = input("Date of competition: ")
+venue = input("Venue: ")
+medal = input("Type of medal: ")
+
+name1 = input("Group name: ")
+size1 = int(input("Size of the group: "))
+date1 = input("Date of competition: ")
+venue1 = input("Venue: ")
+medal1 = input("Type of medal: ")
+
+name2 = input("Group name: ")
+size2 = int(input("Size of the group: "))
+date2 = input("Date of competition: ")
+venue2 = input("Venue: ")
+medal2 = input("Type of medal: ")
+
+name3 = input("Group name: ")
+size3 = int(input("Size of the group: "))
+date3 = input("Date of competition: ")
+venue3 = input("Venue: ")
+medal3 = input("Type of medal: ")
+
+name4 = input("Group name: ")
+size4 = int(input("Size of the group: "))
+date4 = input("Date of competition: ")
+venue4 = input("Venue: ")
+medal4 = input("Type of medal: ")
+
+record = (name, size, date, venue, medal)
+record1 = (name1, size1, date1, venue1, medal1)
+record2 = (name2, size2, date2, venue2, medal2)
+record2 = (name2, size2, date2, venue2, medal2)
+record3 = (name3, size3, date3, venue3, medal3)
+record4 = (name4, size4, date4, venue4, medal4)
+
+
+print(record)
+print(record1)
+print(record2)
+print(record3)
+print(record4)
